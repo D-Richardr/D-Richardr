@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Daniel 👋
 
-<!--
-**D-Richardr/D-Richardr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Java em formação**, focado em construir uma base sólida em **lógica de programação**, **orientação a objetos** e **boas práticas de código**, com objetivo de conquistar uma **vaga de estágio ou desenvolvedor júnior**.
 
-Here are some ideas to get you started:
+Atualmente estudo Java de forma contínua, aplicando os conceitos em projetos práticos e versionando tudo com Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+- Java
+- Lógica de Programação
+- Git e GitHub
+- HTML e CSS (base)
+- AWS (em estudo)
+
+---
+
+## 📚 O que você vai encontrar aqui
+- Projetos de estudo em **Java**
+- Exercícios de lógica e estruturas de repetição
+- Projetos simples em console, focados em aprendizado real
+- Evolução contínua através de commits frequentes
+
+---
+
+## 🎯 Objetivo
+Atuar como **estagiário ou desenvolvedor júnior**, contribuindo com o time, aprendendo boas práticas e evoluindo tecnicamente todos os dias.
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/drichardz13
