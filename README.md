@@ -10,7 +10,7 @@ Atualmente estudo Java de forma contínua, aplicando os conceitos em projetos pr
 - Java
 - Lógica de Programação
 - Git e GitHub
-- HTML e CSS (base)
+- HTML, CSS E JAVASCRIPT
 - AWS (em estudo)
 
 ---
